@@ -1,0 +1,82 @@
+[
+  {
+    "item_type": "competency_tag",
+    "target_id": "Python",
+    "original_value": "Python",
+    "corrected_value": "Python",
+    "notes": "Test feedback",
+    "timestamp": "2026-10-18 13:20:12"
+  },
+  {
+    "item_type": "competency_tag",
+    "target_id": "SQL & Databases",
+    "original_value": "SQL & Databases",
+    "corrected_value": "Python",
+    "notes": "",
+    "reviewer": "Lead Assessment Architect",
+    "timestamp": "2026-10-18 14:46:49"
+  },
+  {
+    "item_type": "competency_tag",
+    "target_id": "Python",
+    "original_value": "Python",
+    "corrected_value": "Git & Code Collaboration",
+    "notes": "m",
+    "reviewer": "Lead Assessment Architect",
+    "timestamp": "2026-10-18 14:47:00"
+  },
+  {
+    "item_type": "competency_tag",
+    "target_id": "Git & Code Collaboration",
+    "original_value": "Git & Code Collaboration",
+    "corrected_value": "Cloud & DevOps",
+    "notes": "",
+    "reviewer": "Lead Assessment Architect",
+    "timestamp": "2026-10-18 14:53:08"
+  },
+  {
+    "item_type": "competency_tag",
+    "target_id": "Full Stack Web Development",
+    "original_value": "Full Stack Web Development",
+    "corrected_value": "Problem Solving & DSA",
+    "notes": "",
+    "reviewer": "Lead Assessment Architect",
+    "timestamp": "2026-10-18 14:56:25"
+  },
+  {
+    "item_type": "competency_tag",
+    "target_id": "Java",
+    "original_value": "Java",
+    "corrected_value": "Problem Solving & DSA",
+    "notes": "",
+    "reviewer": "Lead Assessment Architect",
+    "timestamp": "2026-10-18 14:56:34"
+  },
+  {
+    "item_type": "competency_tag",
+    "target_id": "Problem Solving & DSA",
+    "original_value": "Problem Solving & DSA",
+    "corrected_value": "Python",
+    "notes": "",
+    "reviewer": "Lead Assessment Architect",
+    "timestamp": "2026-10-18 15:10:29"
+  },
+  {
+    "item_type": "competency_tag",
+    "target_id": "System Design & Architecture",
+    "original_value": "System Design & Architecture",
+    "corrected_value": "Python",
+    "notes": "",
+    "reviewer": "Lead Assessment Architect",
+    "timestamp": "2026-10-18 15:34:34"
+  },
+  {
+    "item_type": "competency_tag",
+    "target_id": "Python",
+    "original_value": "Python",
+    "corrected_value": "Python",
+    "notes": "",
+    "reviewer": "Lead Assessment Architect",
+    "timestamp": "2026-10-18 14:27:45"
+  }
+]
